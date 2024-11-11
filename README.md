@@ -41,7 +41,6 @@
 
 <hr>
 
-<a href="/"><img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100%"></a>
 <a href="https://gitpod.io/https:/Viet salt/portfolio-html"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
 
 ## Design credit: 
@@ -239,33 +238,10 @@ We are using plain `CSS` for this project and you can find that in the `docs/css
 <h1>Examples</h1>
 <p>Here are examples of portfolios customized using this template, you can draw inspiration from this list or add yours.</p>
 
-<table>
-<tr>
-<!-- Start of column-1 -->
-<td>
-  <a href="https://cpro-portfolio-html.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100px"> <br/>
-    <sub>Example 1</sub>
-  </a>
-</td>
-<!-- End of column-1 -->
- <!-- Start of column-2 -->
-<td>
-  <a href="https://cpro-portfolio-html.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100px"> <br/>
-    <sub>Example 2</sub>
-  </a>
-</td>
-</tr>
-</table>
-
-
 
 ## Sponsor
 <div>
-  <a href="https://www.buymeacoffee.com/victoreke">
-    <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
-  </a>
+
 <img width="150px" height="100%" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
 </div>
 
